@@ -4,6 +4,7 @@ class TodoList
 
    	def initialize(title)
    		@title = title
+   		@author = "Marlena"
    		@items = Array.new
    	end
 
@@ -38,14 +39,21 @@ class TodoList
         @items.at(item_position).complete_item_status
     end
 
+    def incomplete
+        @items.each do |item|
+            item.not_complete 
+        end
+    end
+
 end
 
 class Item
 
-    attr_reader :description, :completed_status
+    attr_reader :description, :due_date, :completed_status
 
     def initialize(item_description)
     	@description = item_description
+    	@due_date = "one week"
     	@completed_status = false
     end
 
@@ -59,6 +67,10 @@ class Item
         puts "Due date: #{@due_date}"
         puts "Completed status: #{@completed_status}" 
         puts
+    end
+
+    def not_complete
+        @completed_status = false
     end
 
 end
