@@ -1,0 +1,47 @@
+commit bb7b191d7e87376cbf54aca47e1ba285595bdb28
+Author: marlenaonrails <marlenabowen@gmail.com>
+Date:   Mon Feb 22 21:29:06 2016 -0500
+
+    removed extra end
+
+commit 694ea5f80e93e6f55cd03b29ce2c81f6ded23df5
+Author: marlenaonrails <marlenabowen@gmail.com>
+Date:   Mon Feb 22 21:23:15 2016 -0500
+
+    added new features
+
+commit 225115d2fd65179d2ec1444ab687faebbe7b5704
+Author: marlenaonrails <marlenabowen@gmail.com>
+Date:   Mon Feb 22 21:23:06 2016 -0500
+
+    added new features
+
+commit f8ea7c853a477347baa8ceb1002344df72bc2dd3
+Author: marlenaonrails <marlenabowen@gmail.com>
+Date:   Mon Feb 22 21:22:55 2016 -0500
+
+    added new features
+
+commit 0359eb012c5eeeac5e0ae6e92233a7ec66f10401
+Author: marlenaonrails <marlenabowen@gmail.com>
+Date:   Mon Feb 22 21:19:52 2016 -0500
+
+    defined methods to match those called in udacitask.rb
+
+commit 5fdbef4c15fa10718c598c82cf371bff5fdae4bf
+Author: marlenaonrails <marlenabowen@gmail.com>
+Date:   Mon Feb 22 21:09:58 2016 -0500
+
+    came up with method names for each of the tasks in todolist.rb
+
+commit 8805d9e276b6845b50fdb5f7e2485063d0f0e978
+Author: marlenaonrails <marlenabowen@gmail.com>
+Date:   Mon Feb 22 21:06:45 2016 -0500
+
+    created new todo list
+
+commit 0a6a451e8357a75c50f581a6639b5a0a8fe9ba1e
+Author: marlenaonrails <marlenabowen@gmail.com>
+Date:   Mon Feb 22 21:06:27 2016 -0500
+
+    initialized TodoList and Item classes
