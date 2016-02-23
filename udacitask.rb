@@ -35,3 +35,9 @@ tasks.update_title
 
 # Print the list
 tasks.print_list
+
+# Mark all items as incomplete 
+tasks.incomplete 
+
+# Print the list 
+tasks.print_list
