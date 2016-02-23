@@ -57,7 +57,7 @@ class Item
     	@completed_status = false
     end
 
-    def completed_item_status
+    def complete_item_status
     	@completed_status = true
     end
 
